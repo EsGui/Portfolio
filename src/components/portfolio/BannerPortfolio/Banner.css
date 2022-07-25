@@ -1,7 +1,7 @@
 .BannerHomePortfolio {
   border: 1px solid black;
   height: 400px;
-  background-image: url('../../../images/art-programmer-web.webp');
+  background-image: url('../../../images/art-portfolio/art-programmer-web.webp');
   background-repeat: no-repeat;
   background-position: center;
 }
