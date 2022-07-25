@@ -1,0 +1,29 @@
+.imageTechnologie {
+  width: 200px;
+  height: 160px;
+  border-radius: 10px;
+}
+
+.TechnologieStyle {
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 2px 2px 4px;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.ContainerTechnologieStyle {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.TitleTechnologie {
+  text-align: center;
+  box-shadow: 2px 2px 4px;
+}

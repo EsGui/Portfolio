@@ -6,7 +6,7 @@ import REACT from '../images/technologies/react.png'
 import TESTINGLIBRARY from '../images/technologies/testinglibrary.png'
 import DOCKER from '../images/technologies/docker.png'
 import NODEJS from '../images/technologies/nodejs.webp'
-import MOCHA from '../images/technologies/mocha.svg'
+import MOCHA from '../images/technologies/mocha.jpg'
 import SINON from '../images/technologies/sinon.png'
 import MYSQL from '../images/technologies/mysql.jpg'
 

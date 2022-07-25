@@ -1,4 +1,4 @@
-.SobreMimHomePortfolio {
+.AboutMeHomePortfolio {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -10,11 +10,11 @@
   color: white
 }
 
-.SobreMimHomePortfolioSuperior {
+.ContainerAboutMe {
   display: flex;
   height: 500px;
   align-items: center;
   justify-content: center;
-  border: 10px solid black;
+  border: 1px solid black;
   background-color: gray;
 }

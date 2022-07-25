@@ -10,8 +10,8 @@ function AboutMe() {
 
   return (
     <>
-      <div className="SobreMimHomePortfolioSuperior">
-        <div className="SobreMimHomePortfolio">
+      <div className="ContainerAboutMe">
+        <div className="AboutMeHomePortfolio">
           <h2>{ titleAboutMe }</h2>  
           <p>{ aboutMe }</p>
         </div>

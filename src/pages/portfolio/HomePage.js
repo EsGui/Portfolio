@@ -2,6 +2,7 @@ import React from 'react';
 import AboutMe from '../../components/portfolio/ AboutMePortfolio/AboutMe';
 import Banner from '../../components/portfolio/BannerPortfolio/Banner';
 import Header from '../../components/portfolio/HeaderPortfolio/Header';
+import Technologies from '../../components/portfolio/TechnologiesPortfolio/Technologies';
 
 
 function HomePage() {
@@ -10,6 +11,7 @@ function HomePage() {
       <Header />
       <Banner />
       <AboutMe />
+      <Technologies />
     </>
   )
 };
